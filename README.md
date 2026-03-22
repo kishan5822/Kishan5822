@@ -109,7 +109,7 @@ Agentic AI
 
 | Role | Company | Duration |
 |------|---------|----------|
-| AI & System Engineer | Tata Consultancy Services | Oct 2024 – Present |
+| AI System Engineer | Tata Consultancy Services | Oct 2024 – Present |
 | Data Science Intern | Bugendai Tech Pvt. Ltd. | Jul 2023 – Sep 2023 |
 
 ---
