@@ -126,7 +126,7 @@ Open to:        AI Engineer · GenAI Developer · LLM Engineer · AI QA Engineer
 
 | Certification | Issuer | Year |
 |--------------|--------|------|
-| 🥇 Azure AI Engineer Associate (AI-102) | Microsoft | 2024 |
+| 🥇 Azure AI Engineer Associate (AI-102) | Microsoft | 2026 |
 
 ---
 
